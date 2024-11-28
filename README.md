@@ -4,7 +4,7 @@
 
 Estudiante de Administración de Sistemas Informáticos en Red con experiencia en desarrollo Frontend (HTML5, Bootstrap, WordPress), Backend (PHP, Python, Node.js, MySQL, MongoDB) y herramientas DevOps (AWS, Google Cloud, Kubernetes, Linux). Me enfoco en crear soluciones eficientes, escalables y seguras, con un compromiso constante por aprender y mejorar.
 
-## Mis habilidades  
+## Tecnologías 
 <table><tr><td valign="top" width="33%">
 
 
@@ -54,8 +54,7 @@ Estudiante de Administración de Sistemas Informáticos en Red con experiencia e
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>   
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
