@@ -1,4 +1,4 @@
-# <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100"/> Bienvenid@ al GitHub de Eloy Celdrán Madrid
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB3MHdsYnAweDdqOGZteGg0dGQzcHlsM3MwZGJiczB2djB0YzJraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWocZxVYEzl8Y3LWIZ/giphy.gif"  width="100"/> Bienvenid@ al GitHub de Eloy Celdrán Madrid
 
 ![Banner de Eloy Celdrán](banner-git.png)
 <div align="center">
@@ -12,7 +12,7 @@
 
 Estudiante de Administración de Sistemas Informáticos en Red con experiencia en desarrollo Frontend (HTML5, Bootstrap, WordPress), Backend (PHP, Python, Node.js, MySQL, MongoDB) y herramientas DevOps (AWS, Google Cloud, Linux). Me enfoco en crear soluciones eficientes, escalables y seguras, con un compromiso constante por aprender y mejorar.
 
-## Tecnologías 
+## Tecnologías <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <table><tr><td valign="top" width="33%">
 
 
@@ -77,5 +77,9 @@ Estudiante de Administración de Sistemas Informáticos en Red con experiencia e
 
 <br/>  
 
+## Proyectos 
+
+<p align = "center">
+<a href = "https://github.com/eloyceld/eloyceld"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=eloyceld&repo=SAD&theme=tokyonight" /></a> <a href = "https://github.com/eloyceld/IAW"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eloyceld&repo=IAW&theme=tokyonight" /></a> </p>
 
 -----------
