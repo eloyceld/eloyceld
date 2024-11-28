@@ -1,8 +1,16 @@
 # <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100"/> Bienvenid@ al GitHub de Eloy Celdrán Madrid
 
 ![Banner de Eloy Celdrán](banner-git.png)
+<div align="center">
+<a href="https://github.com/https://github.com/eloyceld" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eloyceldranmadrid/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-Estudiante de Administración de Sistemas Informáticos en Red con experiencia en desarrollo Frontend (HTML5, Bootstrap, WordPress), Backend (PHP, Python, Node.js, MySQL, MongoDB) y herramientas DevOps (AWS, Google Cloud, Kubernetes, Linux). Me enfoco en crear soluciones eficientes, escalables y seguras, con un compromiso constante por aprender y mejorar.
+Estudiante de Administración de Sistemas Informáticos en Red con experiencia en desarrollo Frontend (HTML5, Bootstrap, WordPress), Backend (PHP, Python, Node.js, MySQL, MongoDB) y herramientas DevOps (AWS, Google Cloud, Linux). Me enfoco en crear soluciones eficientes, escalables y seguras, con un compromiso constante por aprender y mejorar.
 
 ## Tecnologías 
 <table><tr><td valign="top" width="33%">
@@ -63,21 +71,6 @@ Estudiante de Administración de Sistemas Informáticos en Red con experiencia e
 </td></tr></table>  
 
 <br/>  
-
-
-## Conecta conmigo
-<div align="center">
-<a href="https://github.com/https://github.com/eloyceld" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eloyceldranmadrid/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eloyceld&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
